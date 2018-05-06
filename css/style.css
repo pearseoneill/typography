@@ -1,0 +1,18 @@
+body {background-color: #f9c609;
+text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 0em;
+    font-size: 8em
+}
+
+.top {color: #000700;
+margin-top: 25%;
+margin-bottom: .76em}
+
+.mirror {color: 817851;
+    margin-top: 0px;
+-moz-transform: scale(1, -1);
+-webkit-transform: scale(1, -1);
+-o-transform: scale(1, -1);
+-ms-transform: scale(1, -1);
+transform: scale(1, -1);}
